@@ -145,5 +145,3 @@ Ajuda específica
 ```sh
 git help (nome comando
 ```
-
-
